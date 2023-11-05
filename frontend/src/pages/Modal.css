@@ -1,0 +1,29 @@
+.modal-overlay {
+  position: absolute;
+  top: 35%;
+  left: 37%;
+  z-index: 99;
+  border-radius: 20px;
+}
+.modall {
+  /* position: fixed;
+    height: 100px;
+    width: 600px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(30px);
+  border-radius: 20px;
+  border: 2px solid #02580f;
+  background-color: white;
+  color: #02580f;
+  padding: 20px 30px;
+}
+.close-button {
+  position: relative;
+  top: 10%;
+  left: 46%;
+  width: 25px;
+  height: 25px;
+}
