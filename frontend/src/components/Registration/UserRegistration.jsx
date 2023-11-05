@@ -99,7 +99,7 @@ const UserRegistration = () => {
           setShowSuccessSnack(true);
           setSnackMsg("Signin successful");
           setTimeout(() => {
-            navigate("/dashboard")
+            navigate("/")
           }, 2000);
         } else console.log(res.data.error);
       })

@@ -19,6 +19,7 @@ import RegisterForEventPage from "./pages/Registerforevent";
 import NewDashboard from "./pages/NewDashboard";
 import Home from "./pages/Home";
 import ImageGenAI from "./dashboardItems/gen/ImageGenAI";
+import Profile from "./pages/Profile";
 
 
 // const router = createBrowserRouter([
@@ -113,6 +114,7 @@ const App = () => {
         <Route path="login" element={<Registration />} />
         <Route path="event" element={<Eventspage />} />
         <Route path="regevent" element={<RegisterForEventPage />} />
+        <Route path="profile" element={<Profile />} />
         <Route path="dashboard" element={<NewDashboard />}>
           <Route index element={<Home />} />
           <Route path="home"  element={<Home />} />

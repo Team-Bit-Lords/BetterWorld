@@ -9,7 +9,7 @@ const Banner = () => {
             width: '100%',
             color: 'white',
         }}>
-            <p className="text-3xl  font-semibold">News feed</p>
+            <p className="text-3xl font-semibold">Your feed</p>
             <p>Check what your nation have been up to!</p>
         </div>
     )

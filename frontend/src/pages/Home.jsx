@@ -27,7 +27,7 @@ const Home = () => {
           </div>
           <div className="p-4 text-right">
             <p className="block antialiased font-sans text-sm leading-normal font-normal text-blue-gray-600">
-              Today's Money
+              Money Donated
             </p>
             <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900">
               $53k
@@ -85,10 +85,10 @@ const Home = () => {
           </div>
           <div className="p-4 text-right">
             <p className="block antialiased font-sans text-sm leading-normal font-normal text-blue-gray-600">
-              New Clients
+              Fundraisers
             </p>
             <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900">
-              3,462
+              10
             </h4>
           </div>
           <div className="border-t border-blue-gray-50 p-4">
@@ -111,7 +111,7 @@ const Home = () => {
           </div>
           <div className="p-4 text-right">
             <p className="block antialiased font-sans text-sm leading-normal font-normal text-blue-gray-600">
-              Sales
+              Money raised
             </p>
             <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900">
               $103,430
@@ -135,7 +135,7 @@ const Home = () => {
           </div>
           <div className="p-6">
             <h6 className="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-blue-gray-900">
-              Website View
+              Users
             </h6>
             <p className="block antialiased font-sans text-sm leading-normal font-normal text-blue-gray-600">
               Last Campaign Performance
@@ -207,7 +207,7 @@ const Home = () => {
           </div>
           <div className="p-6">
             <h6 className="block antialiased tracking-normal font-sans text-base font-semibold leading-relaxed text-blue-gray-900">
-              Website View
+              Issues
             </h6>
             <p className="block antialiased font-sans text-sm leading-normal font-normal text-blue-gray-600">
               Last Campaign Performance

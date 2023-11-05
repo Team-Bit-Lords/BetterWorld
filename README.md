@@ -37,8 +37,15 @@ Our solution incorporates the following features to address these issues:
 
 ## Video, PPT, and Deployed Links
 
-- [Project Video](https://www.youtube.com/watch?v=NsxBu39dVug)
-- [Deployed Platform](https://6547472a5f288e195205dda7--sweet-narwhal-f4075f.netlify.app/)
+- [Project Video](https://yourvideoURL.com)
+- [Presentation Slides (PPT)](https://yourpptURL.com)
+- [Deployed Platform](https://yourdeployedURL.com)
+
+## Images
+
+<img src="video/image1.jpg" alt="Image 1 Description" width="300" />
+<img src="video/image2.jpg" alt="Image 2 Description" width="300" />
+<img src="video/image3.jpg" alt="Image 3 Description" width="300" />
 
 
 ## Connect with Us

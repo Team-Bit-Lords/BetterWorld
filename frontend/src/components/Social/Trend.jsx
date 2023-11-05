@@ -11,15 +11,15 @@ const Trend = () => {
                 </div>
                 <div className="flex flex-col text-gray-900 gap-1">
                     <p className="font-semibold">Corruption</p>
-                    <p className="text-sm text-gray-400">1.2k posts</p>
+                    <p className="text-sm text-gray-400">920 posts</p>
                 </div>
                 <div className="flex flex-col text-gray-900 gap-1">
                     <p className="font-semibold">Trafficking of children</p>
-                    <p className="text-sm text-gray-400">1.2k posts</p>
+                    <p className="text-sm text-gray-400">700 posts</p>
                 </div>
                 <div className="flex flex-col text-gray-900 gap-1">
                     <p className="font-semibold">Gender inequality</p>
-                    <p className="text-sm text-gray-400">1.2k posts</p>
+                    <p className="text-sm text-gray-400">400 posts</p>
                 </div>
                 
                 

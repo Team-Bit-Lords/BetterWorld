@@ -12,17 +12,17 @@ const Leaderboard = () => {
     <div className="flex flex-col gap-10">
       <div className="flex flex-col gap-5">
         <div className="flex gap-16 px-32">
-          <div className="w-56 h-56 shadow-[0px_0px_50px_5px_rgba(160,128,128,0.79)] rounded-2xl p-6 flex flex-col gap-3">
+          <div className="w-56 h-56 bg-[#e5e5e5] shadow-[0px_0px_50px_5px_rgba(160,128,128,0.79)] rounded-2xl p-6 flex flex-col gap-3">
             <h1 className="font-bold text-2xl">2nd</h1>
             <img src={second} alt="" className="w-24 h-24 block mx-auto" />
             <p className="block mx-auto font-semibold">Pranav Patil</p>
           </div>
-          <div className="w-72 h-72 shadow-[0px_0px_75px_7px_rgba(229,204,0,0.79)] rounded-2xl p-6 flex flex-col gap-3">
+          <div className="w-72 h-72 bg-[#ffffe7] shadow-[0px_0px_75px_3px_rgba(229,209,0,0.59)] rounded-2xl p-6 flex flex-col gap-3">
             <h1 className="font-bold text-2xl">1st</h1>
             <img src={first} alt="" className="w-40 h-40 block mx-auto" />
             <p className="block mx-auto font-semibold text-xl">Shagun Gupta</p>
           </div>
-          <div className="w-56 h-56 shadow-[0px_0px_50px_5px_rgba(165,42,42,0.3)] rounded-2xl p-6 flex flex-col gap-3">
+          <div className="w-56 h-56 bg-[#f9efe6] shadow-[0px_0px_50px_5px_rgba(165,42,42,0.3)] rounded-2xl p-6 flex flex-col gap-3">
             <h1 className="font-bold text-2xl">3rd</h1>
             <img src={third} alt="" className="w-24 h-24 block mx-auto" />
             <p className="block mx-auto font-semibold">Archie Shah</p>
