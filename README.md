@@ -1,57 +1,59 @@
-# Better World NFT Marketplace
+# Better World - A Blockchain Based Social Welfare and CrowdFunding platform
 
-Welcome to the Better World NFT Marketplace, a revolutionary platform that empowers you to make a positive impact on the world while indulging in the exciting world of digital art and collectibles. Our mission is to combine the innovative potential of blockchain technology with the power of social impact. Join us as we strive to create a better world, one NFT at a time.
+Welcome to the Better World NFT Marketplace, a revolutionary platform that empowers you to make a positive impact on the world while indulging in the exciting world of digital art and collectibles. Our mission is to combine the innovative potential of blockchain technology with the power of social impact. Join us as we strive to create a Better World, one NFT at a time.
 
-## About Our Social Cause Marketplace
+## Problem Statement
+The existing system faces challenges related to:
 
-At Better World, we believe in the transformative power of NFTs to drive meaningful change. Our platform serves as a hub for artists, creators, and enthusiasts who are passionate about supporting important social causes. Whether it's environmental conservation, education, healthcare, or any other noble cause, we provide a platform where you can make a real impact.
+- **Accountability**: Charitable firms often lack transparency, making it challenging for donors to know where their contributions are being used effectively.
 
-### What You'll Find Here
+- **Lack of Transparency**: Donors are often in the dark regarding the utilization of their funds, leaving them unsure about the impact of their generosity.
 
-- **Exclusive NFT Artwork**: Discover unique digital art created by talented artists.
+- **Humanitarian Crises**: Ongoing wars and conflicts exacerbate the need for support in affected regions, demanding a more efficient and effective donation platform.
 
-- **Limited Edition Digital Assets**: Acquire digital assets that not only enhance your collection but also support charitable initiatives.
 
-- **Real-World Impact Stories**: Explore stories and updates from our partnered organizations, showcasing the tangible results of your contributions.
+## Proposed Solution
+Our solution incorporates the following features to address these issues:
 
-- **Thriving Community**: Connect with a community of like-minded individuals who share your vision for positive change.
+- **Blockchain Technology** for Donations: We use the XDC blockchain for transparent and secure financial transactions, ensuring donors can track their contributions in real-time.
 
-## How You Can Get Involved
+- **NFT Certificates**: To enhance transparency and provide donors with a sense of prestige, users are required to purchase NFTs (Non-Fungible Tokens) to make donations. These NFTs act as certificates, confirming their contribution. This unique approach not only provides a tangible proof of donation but also motivates other users to contribute by adding a prestige element.
 
-### Browse and Collect
+- **Donation of Used Items**: People who prefer not to donate money can contribute by donating used items like old clothes, which will be distributed to those in need.
 
-- **Explore**: Browse through our NFT listings and uncover remarkable digital art while contributing to a meaningful cause.
+- **Volunteer Opportunities**: For individuals who want to contribute their time and skills, we provide options to become a volunteer and directly participate in social welfare initiatives.
 
-### Create and Contribute
+- **User-Friendly Interface**: We offer an intuitive interface with real-time updates on supported projects, including progress reports, photos, and videos.
 
-- **Artists and Creators**: Mint your NFTs and allocate a portion of the proceeds to charity, driving positive change through your creative work.
+- **Educational Content**: Information on ongoing wars and conflicts is provided, explaining the humanitarian crises and the urgent need for donations.
 
-### Join the Community
+- **Third-Party Auditing**: Independent auditors and NGOs review and publish audit reports for the financial and operational transparency of organizations.
 
-- **Engage**: Connect with fellow members, artists, and organizations dedicated to making a difference in the world.
+- **Feedback Loop**: A direct feedback system lets beneficiaries share their experiences and needs, fostering transparency and connection.
 
-### Stay Informed
+- **Social Issue Events**: We also host events on various social issues, such as blood donation drives and beach cleanups, encouraging community involvement and social impact.
 
-- **Follow Updates**: Stay updated on our latest news, charity partnerships, and special events directly on our platform.
+- **Mini Region wise Issue Centric Social Media Platform**: Our platform includes a mini social media platform designed for government officials and residents of India. This feature allows users to report issues directly to governmental organizations and designated individuals. Issues are categorized and shared only with relevant authorities in specific geographical areas, ensuring efficient resolution.
 
-## Together, We Can Make a Difference
+## Video, PPT, and Deployed Links
 
-Every NFT purchase you make on our platform brings us one step closer to creating a better world. Join us in this inspiring journey that combines art, blockchain technology, and social change. Let's empower the world, one NFT at a time.
+- [Project Video](https://yourvideoURL.com)
+- [Presentation Slides (PPT)](https://yourpptURL.com)
+- [Deployed Platform](https://yourdeployedURL.com)
 
-Don't miss your chance to be a part of this transformative movement. Subscribe, like, and share our platform to spread the word. Together, we can turn digital art into real-world impact! 💪🎨🌍
+## Images
 
-## You can the walkthrough of our project here
-
-https://github.com/ShashankGupta10/Better-World/assets/106877570/d90b3df7-fe1f-4624-acda-27a3da91e48e
+<img src="video/image1.jpg" alt="Image 1 Description" width="300" />
+<img src="video/image2.jpg" alt="Image 2 Description" width="300" />
+<img src="video/image3.jpg" alt="Image 3 Description" width="300" />
 
 
 ## Connect with Us
 
 - **Our Team**: Meet the individuals behind Better World NFT Marketplace:
-- 
-  - [Shashank Gupta](https://github.com/ShashankGupta10)
-  - [Shaunak Rananaware](https://github.com/shaunakrananaware)
-  - [Pranav Patil](https://github.com/iPranav-patil)
-  - [Ajaykumar Maurya](https://github.com/ajaymaurya1008)
+ - [Shashank Gupta](https://github.com/ShashankGupta10)
+ - [Shaunak Rananaware](https://github.com/shaunakrananaware)
+ - [Pranav Patil](https://github.com/iPranav-patil)
+ - [Ajaykumar Maurya](https://github.com/ajaymaurya1008)
 
 Please follow our project and join us in making the world a better place through the power of NFTs! #NFTForGood #SocialImpact #ArtWithPurpose
